@@ -10,6 +10,5 @@ Mỗi bài tập tập trung vào một giao thức cụ thể và yêu cầu ph
 
 ## Thành viên
 - [Trung Thieu Vinh](https://github.com/tvtrungg)
-- [Tu Ha Thi Thanh](https://github.com/HaTu0803)
 - [Man Nguyen Huynh](https://github.com/nhman2002)
 
